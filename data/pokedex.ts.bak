@@ -12619,6 +12619,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	noivernpolarian: {
 		num: 2002,
 		name: "Noivern-Polarian",
+		baseSpecies: "Noivern",
+		forme: "Polarian",
 		types: ["Ice", "Dragon"],
 		baseStats: {hp: 85, atk: 70, def: 80, spa: 97, spd: 80, spe: 123},
 		abilities: {0: "Snow Cloak", H: "Snow Warning"},
