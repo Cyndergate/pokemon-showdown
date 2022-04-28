@@ -12586,11 +12586,11 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		otherFormes: ["Noibat-Polarian"],
 		formeOrder: ["Noibat", "Noibat-Polarian"],
 	},
-	noibatpolaris: {
+	noibatpolarian: {
 		num: 2001,
 		name: "Noibat-Polarian",
 		baseSpecies: "Noibat",
-		forme: "Alola",
+		forme: "Polarian",
 		types: ["Ice", "Dragon"],
 		genderRatio: {M: 0.25, F: 0.75},
 		baseStats: {hp: 38, atk: 41, def: 40, spa: 50, spd: 65, spe: 65},
@@ -12616,9 +12616,11 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		otherFormes: ["Noivern-Polarian"],
 		formeOrder: ["Noibat", "Noivern-Polarian"],
 	},
-	noivernpolaris: {
+	noivernpolarian: {
 		num: 2002,
 		name: "Noivern-Polarian",
+		baseSpecies: "Noivern",
+		forme: "Polarian",
 		types: ["Ice", "Dragon"],
 		baseStats: {hp: 85, atk: 70, def: 80, spa: 97, spd: 80, spe: 123},
 		abilities: {0: "Snow Cloak", H: "Snow Warning"},
