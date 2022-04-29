@@ -41,14 +41,6 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
-	shucklemegaoff: {
-		isNonstandard: "Past",
-		tier: "Illegal",
-	},
-	shucklemegadef: {
-		isNonstandard: "Past",
-		tier: "Illegal",
-	},
 	charizardgmax: {
 		randomDoubleBattleMoves: ["airslash", "fireblast", "focusblast", "heatwave", "protect", "tailwind"],
 		randomDoubleBattleLevel: 80,
@@ -1716,6 +1708,14 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		randomDoubleBattleLevel: 100,
 		tier: "(PU)",
 		doublesTier: "(DUU)",
+	},
+	shucklemegaoff: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	shucklemegadef: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
 	},
 	heracross: {
 		randomBattleMoves: ["closecombat", "facade", "knockoff", "megahorn"],
@@ -6619,6 +6619,10 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	pokestarufopropu2: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	zenith: {
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
