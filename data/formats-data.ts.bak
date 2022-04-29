@@ -4688,18 +4688,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	noibat: {
 		tier: "LC",
 	},
-	noibatpolarian: {
-		tier: "LC",
-	},
 	noivern: {
-		randomBattleMoves: ["defog", "dracometeor", "flamethrower", "hurricane", "roost", "switcheroo"],
-		randomBattleLevel: 82,
-		randomDoubleBattleMoves: ["boomburst", "dracometeor", "flamethrower", "hurricane", "protect", "tailwind"],
-		randomDoubleBattleLevel: 84,
-		tier: "RU",
-		doublesTier: "(DUU)",
-	},
-	noivernpolarian: {
 		randomBattleMoves: ["defog", "dracometeor", "flamethrower", "hurricane", "roost", "switcheroo"],
 		randomBattleLevel: 82,
 		randomDoubleBattleMoves: ["boomburst", "dracometeor", "flamethrower", "hurricane", "protect", "tailwind"],
