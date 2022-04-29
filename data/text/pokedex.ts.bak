@@ -863,12 +863,6 @@ export const PokedexText: {[k: string]: PokedexText} = {
 	shuckle: {
 		name: "Shuckle",
 	},
-	shucklemegaoff: {
-		name: "Shuckle-Mega-Offence",
-	},
-	shucklemegadef: {
-		name: "Shuckle-Mega-Defense",
-	},
 	heracross: {
 		name: "Heracross",
 	},
@@ -2666,17 +2660,8 @@ export const PokedexText: {[k: string]: PokedexText} = {
 	noibat: {
 		name: "Noibat",
 	},
-	noibatpolarian: {
-		name: "Noibat-Polarian",
-	},
 	noivern: {
 		name: "Noivern",
-	},
-	noivernpolarian: {
-		name: "Noivern-Polarian",
-	},
-	zenith: {
-		name: "Zenith",
 	},
 	xerneas: {
 		name: "Xerneas",
