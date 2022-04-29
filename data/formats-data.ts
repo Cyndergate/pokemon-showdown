@@ -41,7 +41,11 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
-	charizardmegay: {
+	shucklemegaoff: {
+		isNonstandard: "Past",
+		tier: "Illegal",
+	},
+	shucklemegadef: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 	},
