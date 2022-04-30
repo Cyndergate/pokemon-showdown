@@ -11922,7 +11922,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	espurr: {
 		num: 677,
 		name: "Espurr",
-		types: ["Psychic"],
+		types: ["Blight"],
 		baseStats: {hp: 62, atk: 48, def: 54, spa: 63, spd: 60, spe: 68},
 		abilities: {0: "Keen Eye", 1: "Infiltrator", H: "Own Tempo"},
 		heightm: 0.3,
@@ -11935,7 +11935,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		num: 678,
 		name: "Meowstic",
 		baseForme: "M",
-		types: ["Psychic"],
+		types: ["Blight"],
 		gender: "M",
 		baseStats: {hp: 74, atk: 48, def: 76, spa: 83, spd: 81, spe: 104},
 		abilities: {0: "Keen Eye", 1: "Infiltrator", H: "Prankster"},
